@@ -1,0 +1,4 @@
+larget training data set can't be on github so pull it down from this link
+using wget:
+
+wget "http://www.pjreddie.com/media/files/mnist_train.csv"
