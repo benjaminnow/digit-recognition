@@ -1,5 +1,7 @@
 # Neural Network From Scratch
 
+![](gradio.JPG)
+
 ## Intro
 
 This was a personal project for my honors college capstone class. It is the first step towards understanding machine learning from basic principles.
